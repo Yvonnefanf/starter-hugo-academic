@@ -66,6 +66,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-My name is Zhang yifan,I'm now a Research Assistant at National University of Singapore under the supervision of Prof. Dong Jin Song and mentored by Prof. Lin Yun. My research interests lie in Deep Learning Engineering.
+My name is Zhang yifan,I'm now a Research Assistant at National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/" target="_blank">Prof. Dong Jin Song</a> and mentored by <a href="http://linyun.info/index.html" target="_blank">Prof. Lin Yun</a>.  My research interests lie in Deep Learning Engineering.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
