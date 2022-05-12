@@ -26,10 +26,10 @@ interests:
 education:
   courses:
     - course: MEng in Donghua University
-      institution: Massachusetts Institute of Technology
+      institution: Computer science and technology
       year: 2020
     - course: BSc in Donghua University
-      institution: Massachusetts Institute of Technology
+      institution: Computer science and technology
       year: 2018
 
 # Social/Academic Networking
