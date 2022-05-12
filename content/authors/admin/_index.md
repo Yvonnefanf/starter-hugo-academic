@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master in Donghua University
-      major: Computer Technology
-      year: (Sep2018 - Jul2020)
+    - course: MEng in Donghua University
+      institution: Massachusetts Institute of Technology
+      year: 2020
     - course: BSc in Donghua University
-      major: computer science and Technology
-      year: (Sep2014 -Jul2018)
+      institution: Massachusetts Institute of Technology
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
