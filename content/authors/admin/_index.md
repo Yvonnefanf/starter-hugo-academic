@@ -51,7 +51,7 @@ social:
     link: https://github.com/Yvonnefanf/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E8%89%BA%E5%87%A1-%E5%BC%A0-163409226/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
