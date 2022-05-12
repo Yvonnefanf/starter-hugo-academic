@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhang yifan
+title: Zhang Yifan
 
 # Is this the primary user of the site?
 superuser: true
