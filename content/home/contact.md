@@ -36,7 +36,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://us05web.zoom.us/profile'
 
 design:
   columns: '2'
