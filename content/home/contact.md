@@ -25,9 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: m18522608197@163.com
+  email: zyifan828@gmail.com
   phone: +86 18526443913
-  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
