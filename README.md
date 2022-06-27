@@ -34,7 +34,7 @@ We're an open source movement that depends on your support to stay online and th
 
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
 
-## Demo image credits
+## Demo image credit
 
 - [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
 - [Course](https://unsplash.com/photos/JKUTrJ4vK00)
